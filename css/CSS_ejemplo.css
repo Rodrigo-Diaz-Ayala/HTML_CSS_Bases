@@ -1,0 +1,37 @@
+P {
+font-size : 12pt;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+H1 {
+font-size : 36pt;
+font-family : verdana,arial;
+text-decoration : underline;
+text-align : center;
+background-color : rgb(50, 68, 68);
+color: blanchedalmond;
+}
+H2 {
+    font-size : 20pt;
+    font-family: arial;
+    text-align: left;
+    background-color: Teal;
+}
+.parrafo {
+    font-size : 18pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#parrafo {
+    font-size: 16pt;
+    font-family: helvetica,arial;
+    font-weight: lighter;
+}
+.imagen_tamano{
+    width: 250px;
+    border-style: dotted;
+}
+.imagen{
+    align-content: center;
+    text-align: center;
+}
